@@ -1,2 +1,2 @@
 # CheapDeck
-A QMK absed macropad
+A QMK based macropad
