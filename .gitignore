@@ -1,5 +1,6 @@
-STL
-pcb/kbd
+STL_DUMP
+V1/pcb/kbd
+V2/pcb/kbd
 # Temporary files
 *.000
 *.bak
